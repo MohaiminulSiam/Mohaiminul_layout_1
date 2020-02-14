@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header h1{
+    background: burlywood;
+    padding: 20px;
+
+}
+.content{
+    margin-top: 30px;
+    overflow: hidden;
+}
+.nav{
+    background: cadetblue;
+
+    height: 400px;
+    width: 22.5%;
+    float: left;
+}
+.article{
+    background: cadetblue;
+
+    height: 400px;
+    width: 50%;
+    float: left;
+    margin-left: 2.5%;
+}
+
+.aside{
+    background: cadetblue;
+
+    height: 400px;
+    width: 22.5%;
+    float: right;
+}
+footer{
+    background: burlywood;
+    padding: 20px;
+    margin-top: 30px;
+}
